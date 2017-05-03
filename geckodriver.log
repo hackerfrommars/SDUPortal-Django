@@ -1,0 +1,800 @@
+1492001067132	geckodriver	INFO	Listening on 127.0.0.1:22694
+1492001068196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tie5vDuKGb0R
+1492001068197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492001068199	geckodriver::marionette	INFO	Connecting to Marionette on localhost:13575
+
+(firefox:12411): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12411): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12411): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12411): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492001071421	Marionette	INFO	Listening on port 13575
+1492001075928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492001076388	geckodriver	INFO	Listening on 127.0.0.1:48870
+1492001077435	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2L3Ao5cU4FJo
+1492001077436	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492001077437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19353
+
+(firefox:12503): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12503): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12503): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12503): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492001080123	Marionette	INFO	Listening on port 19353
+
+(/usr/lib/firefox/plugin-container:12501): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12501): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12501): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12501): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492001083169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492001083942	Marionette	INFO	New connections will no longer be accepted
+[Child 12501] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 12501] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+(/usr/lib/firefox/plugin-container:12600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12600): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12600): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492001088642	Marionette	INFO	New connections will no longer be accepted
+[Child 12600] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 12600] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492001105767	geckodriver	INFO	Listening on 127.0.0.1:43132
+1492001106839	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wsmBgXYHzJ0G
+1492001106839	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492001106848	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12364
+
+(firefox:12650): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12650): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:12650): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:12650): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492001108192	Marionette	INFO	Listening on port 12364
+1492001109725	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:12713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12713): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:12713): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1492001120522	Marionette	INFO	New connections will no longer be accepted
+[Child 12713] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 12713] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+1492001933707	geckodriver	INFO	Listening on 127.0.0.1:34141
+1492001934781	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.25fzig28IXdI
+1492001934782	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492001934783	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20029
+
+(firefox:13161): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13161): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13161): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13161): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492001936347	Marionette	INFO	Listening on port 20029
+1492001938113	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:13223): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13223): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13223): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13223): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1492001955400	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13223] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 13223] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492005505373	geckodriver	INFO	Listening on 127.0.0.1:64901
+1492005506468	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WA5Q8nU6IFkR
+1492005506468	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005506493	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35076
+
+(firefox:14185): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14185): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14185): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14185): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005513750	Marionette	INFO	Listening on port 35076
+1492005516240	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14250): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14250): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005523406	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 14250] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 14250] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14250] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492005629661	geckodriver	INFO	Listening on 127.0.0.1:60801
+1492005630730	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CTnyzv0ATbkU
+1492005630731	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005630737	geckodriver::marionette	INFO	Connecting to Marionette on localhost:31424
+
+(firefox:14364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005632057	Marionette	INFO	Listening on port 31424
+1492005633535	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14430): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14430): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14430): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14430): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14364): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+
+(firefox:14364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005666872	geckodriver	INFO	Listening on 127.0.0.1:54231
+1492005667935	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KDNg5CoDgzvd
+1492005667937	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005667942	geckodriver::marionette	INFO	Connecting to Marionette on localhost:29912
+
+(firefox:14483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14483): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14483): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005669421	Marionette	INFO	Listening on port 29912
+1492005670846	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14549): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14549): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14549): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14549): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005675253	Marionette	INFO	New connections will no longer be accepted
+[Child 14549] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14549] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492005707872	geckodriver	INFO	Listening on 127.0.0.1:37922
+1492005708937	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bMlsNyPAjvM5
+1492005708938	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005708944	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19289
+
+(firefox:14616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14616): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14616): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005710471	Marionette	INFO	Listening on port 19289
+1492005711956	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14680): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14680): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14680): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14616): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1492005716300	Marionette	INFO	New connections will no longer be accepted
+[Child 14680] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14680] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492005789723	geckodriver	INFO	Listening on 127.0.0.1:20001
+1492005790803	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dakPa3hgPX0U
+1492005790804	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005790807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23352
+
+(firefox:14758): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14758): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14758): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14758): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005792147	Marionette	INFO	Listening on port 23352
+1492005793593	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14822): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14822): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14822): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14822): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005798031	Marionette	INFO	New connections will no longer be accepted
+[Child 14822] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14822] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492005832024	geckodriver	INFO	Listening on 127.0.0.1:16884
+1492005833090	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PCkZghEbmBzp
+1492005833090	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005833094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21241
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005834445	Marionette	INFO	Listening on port 21241
+1492005836013	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14945): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14945): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14945): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14945): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14881): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1492005847247	Marionette	INFO	New connections will no longer be accepted
+[Child 14945] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 14945] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492005878868	geckodriver	INFO	Listening on 127.0.0.1:22797
+1492005879933	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Jziq0dT0URTb
+1492005879933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492005879938	geckodriver::marionette	INFO	Connecting to Marionette on localhost:25571
+
+(firefox:15011): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15011): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:15011): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:15011): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492005881234	Marionette	INFO	Listening on port 25571
+1492005882650	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:15076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:15076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1492005894033	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 15076] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 15076] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492081665910	geckodriver	INFO	Listening on 127.0.0.1:56869
+1492081667000	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9pALW6IOwm4b
+1492081667001	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492081667025	geckodriver::marionette	INFO	Connecting to Marionette on localhost:22221
+
+(firefox:3182): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3182): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3182): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3182): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492081673051	Marionette	INFO	Listening on port 22221
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+1492081676120	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:3259): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3259): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3259): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3259): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492081694734	geckodriver	INFO	Listening on 127.0.0.1:50757
+1492081695801	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ONYJbQDZcKBh
+1492081695802	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492081695806	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21599
+
+(firefox:3321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492081697090	Marionette	INFO	Listening on port 21599
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 230: TypeError: Cc[aContract] is undefined
+1492081698572	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:3385): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3385): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3385): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3385): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3321): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3321): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript error: chrome://browser/content/browser-captivePortal.js, line 249: TypeError: tab.linkedBrowser.currentURI is undefined
+
+(firefox:3182): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3182): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492081792337	geckodriver	INFO	Listening on 127.0.0.1:18545
+1492081793401	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZrJ8VZziwdR6
+1492081793402	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492081793405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:31241
+
+(firefox:3530): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3530): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3530): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3530): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492081794723	Marionette	INFO	Listening on port 31241
+1492081796306	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:3593): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3593): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3593): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3593): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1492081824279	Marionette	INFO	New connections will no longer be accepted
+[Child 3593] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 3593] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492082130848	geckodriver	INFO	Listening on 127.0.0.1:48874
+1492082131910	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eabY7Gt9sdE2
+1492082131911	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492082131914	geckodriver::marionette	INFO	Connecting to Marionette on localhost:12834
+
+(firefox:3716): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3716): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3716): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3716): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492082133271	Marionette	INFO	Listening on port 12834
+1492082134713	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:3780): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3780): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3780): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3780): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1492082146288	Marionette	INFO	New connections will no longer be accepted
+[Child 3780] WARNING: pipe error (17): Connection reset by peer: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 3780] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 3780] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 3780] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492093998660	geckodriver	INFO	Listening on 127.0.0.1:41148
+1492093999750	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.evnhKong6oOi
+1492093999751	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492093999813	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18791
+
+(firefox:13871): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13871): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13871): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13871): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492094002016	Marionette	INFO	Listening on port 18791
+1492094004069	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:13935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13935): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:13935): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492094009996	Marionette	INFO	New connections will no longer be accepted
+[Child 13935] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 13935] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 13935] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492094120078	geckodriver	INFO	Listening on 127.0.0.1:18601
+1492094121145	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZSFGvHxZShYD
+1492094121146	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492094121149	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32011
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14057): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1492094122652	Marionette	INFO	Listening on port 32011
+1492094124111	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/plugin-container:14121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14121): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:14121): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1492094135955	Marionette	INFO	New connections will no longer be accepted
+[Child 14121] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 14121] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 14121] ###!!! ABORT: Aborting on channel error.: file /build/firefox-DdKYuG/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1493812031725	geckodriver	INFO	Listening on 127.0.0.1:58143
+1493812032797	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:16195): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16195): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16195): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16195): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493812038100	Marionette	INFO	Listening on port 18900
+
+(/usr/lib/firefox/firefox:16258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16258): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16258): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
+1493812052335	geckodriver	INFO	Listening on 127.0.0.1:55201
+1493812053411	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:16308): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16308): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:16308): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:16308): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493812058876	Marionette	INFO	Listening on port 36958
+
+(/usr/lib/firefox/firefox:16372): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16372): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/firefox:16372): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: https://my.sdu.edu.kz/common/general.js, line 598: unreachable code after return statement
