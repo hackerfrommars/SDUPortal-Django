@@ -29,8 +29,6 @@ def get_grades(request): # p_user, p_pass
 
 		p_user = request.POST.get('p_user')
 		p_pass = request.POST.get('p_pass')
-		print(str(p_user) + " : " + str(p_pass))
-
 		reload(sys)
 		sys.setdefaultencoding('utf-8')
 
@@ -82,7 +80,48 @@ def get_grades(request): # p_user, p_pass
 		#print(json.dumps(grades))
 		driver.close()
 		#driver.implicitly_wait(5)
-		return HttpResponse(json.dumps(grades))
-					
+		#return HttpResponse(str(grades))
+		return HttpResponse(json.dumps(grades))			
 	else:
 		return HttpResponse('hello');
+
+@csrf_exempt
+def get_profile(request): # p_user, p_pass
+	if request.method == 'POST':
+		
+		p_user = request.POST.get('p_user')
+		p_pass = request.POST.get('p_pass')
+		reload(sys)
+		sys.setdefaultencoding('utf-8')
+		
+		driver = webdriver.Firefox(executable_path = '/usr/local/bin/geckodriver')
+		driver.get("https://my.sdu.edu.kz/")
+		elem = driver.find_element_by_name("username")
+		elem.clear()
+		elem.send_keys(str(p_user))
+		password = driver.find_element_by_name("password")
+		password.send_keys(str(p_pass))
+		elem.send_keys(Keys.RETURN)
+		password.send_keys(Keys.RETURN)
+		
+		driver.get("https://my.sdu.edu.kz/index.php")
+		profile = {}	
+		soup = BeautifulSoup(driver.page_source)
+		profile_output = soup.find_all("td", {"class": "clsTd"})
+		tags = ['stud_no', 'full_name', 'father', 'b_date', 'major', 'advisor', 'status', 'balance', 'ent_score', 'grant_type', 'email']
+		for i in range(len(profile_output)):
+			if(i >= len(tags) * 2):
+				break
+			if(i % 2 != 0):
+				#print(tags[i / 2], profile_output[i].text.strip())
+				profile[tags[i / 2]] = profile_output[i].text.strip()
+
+		image = driver.find_elements_by_tag_name("img")
+		img_src = image[15].get_attribute("src")			
+		profile['img_url'] = img_src		
+
+		driver.close()	
+		return HttpResponse(json.dumps(profile))			
+	else:
+		return HttpResponse('hello');
+
